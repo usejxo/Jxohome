@@ -5,7 +5,7 @@
     "dark": "#ec0000",
     "onDark": "#FBFFF2",
     "primary": "#0804F6",
-    "onPrimary": "#FBFFF2",
+    "onPrimary": "#000000",
     "secondary": "#1feaff",
     "onSecondary": "#2700ff",
     "complementary": "#00ff89",
