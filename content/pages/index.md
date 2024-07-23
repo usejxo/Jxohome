@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Welcome to Jxo
     subtitle: Jxo is a platform for you to have fun.
     styles:
