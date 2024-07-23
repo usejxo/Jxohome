@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-d
     backgroundSize: full
     title: Welcome to Jxo
     subtitle: Jxo is a platform for you to have fun.
